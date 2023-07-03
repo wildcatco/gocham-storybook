@@ -621,9 +621,6 @@ video {
 .-mb-\[0\.2rem\] {
   margin-bottom: -0.2rem;
 }
-.mb-10 {
-  margin-bottom: 2.5rem;
-}
 .mb-\[0\.4rem\] {
   margin-bottom: 0.4rem;
 }
@@ -1797,6 +1794,10 @@ video {
   }
 }
 
+html {
+  color: #424242;
+}
+
 img[alt] {
   font-size: 1rem;
 }
@@ -1824,4 +1825,4 @@ input[type='number'] {
 }
 
 
-/*# sourceMappingURL=main.3045ac05.css.map*/
+/*# sourceMappingURL=main.63c1f933.css.map*/
